@@ -1,0 +1,1 @@
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\BluetoothLE.csproj;x86

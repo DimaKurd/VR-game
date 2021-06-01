@@ -1,0 +1,437 @@
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\App.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\MainPage.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Scenario1_Discovery.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Styles\Styles.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Scenario3_ServerForeground.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Scenario2_Client.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\BluetoothLEUniversal.xr.xml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\BluetoothLEUniversal.exe
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\BluetoothLEUniversal.pdb
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\resources.pri
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\AppxManifest.xml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Core\AppxManifest.xml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Core\BluetoothLEUniversal.exe
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\BluetoothLE.build.appxrecipe
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Microsoft.CSharp.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Core.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Numerics.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Serialization.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Web.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Windows.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.Linq.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.Serialization.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Microsoft.VisualBasic.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.AppContext.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.Concurrent.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.Immutable.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.NonGeneric.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.Specialized.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ComponentModel.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ComponentModel.Annotations.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Data.Common.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.Contracts.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.Debug.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.Tools.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.Tracing.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Dynamic.Runtime.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Globalization.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Globalization.Calendars.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Globalization.Extensions.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.Compression.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\ClrCompression.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.FileSystem.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.IsolatedStorage.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Linq.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Linq.Expressions.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Linq.Parallel.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Linq.Queryable.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Http.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Http.Rtc.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.NetworkInformation.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Primitives.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Requests.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Sockets.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ObjectModel.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Private.DataContractSerialization.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Private.Networking.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Private.ServiceModel.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Private.Uri.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Context.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Emit.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Extensions.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Metadata.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Primitives.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Resources.ResourceManager.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Extensions.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Handles.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.InteropServices.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Numerics.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Security.Claims.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Security.Principal.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Duplex.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Http.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Primitives.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Security.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Text.Encoding.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Text.RegularExpressions.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Overlapped.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Tasks.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Timer.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.ReaderWriter.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.XDocument.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.XmlDocument.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.XmlSerializer.dll
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLE.csprojAssemblyReference.cache
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\App.g.i.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\App.g.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MainPage.g.i.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MainPage.g.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario1_Discovery.g.i.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario1_Discovery.g.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario3_ServerForeground.g.i.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario3_ServerForeground.g.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario2_Client.g.i.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario2_Client.g.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\App.xaml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MainPage.xaml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario1_Discovery.xaml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Styles\Styles.xaml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario3_ServerForeground.xaml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario2_Client.xaml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\App.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MainPage.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario1_Discovery.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Styles\Styles.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario3_ServerForeground.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario2_Client.xbf
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\XamlSaveStateFile.xml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLE.csproj.CoreCompileInputs.cache
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLE.csproj.CopyComplete
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLEUniversal.exe
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLEUniversal.pdb
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\ResourceHandlingTask.state
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.AppContext.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Linq.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Private.Networking.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Threading.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\priconfig.xml
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\priconfig.xml.intermediate
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\unfiltered.layout.resfiles
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\filtered.layout.resfiles
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\excluded.layout.resfiles
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\resources.resfiles
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\resources.resfiles.intermediate
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\pri.resfiles
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\pri.resfiles.intermediate
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\qualifiers.txt
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\qualifiers.txt.intermediate
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\ProjectArchitectures.txt
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\App.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\MainPage.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Scenario1_Discovery.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Styles\Styles.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Scenario3_ServerForeground.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Scenario2_Client.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\BluetoothLEUniversal.xr.xml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\BluetoothLEUniversal.exe
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\BluetoothLEUniversal.pdb
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\resources.pri
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\AppxManifest.xml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Core\AppxManifest.xml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Core\BluetoothLEUniversal.exe
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\BluetoothLE.build.appxrecipe
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Microsoft.CSharp.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Core.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Numerics.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Serialization.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Web.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Windows.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.Linq.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.Serialization.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Microsoft.VisualBasic.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.AppContext.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.Concurrent.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.Immutable.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.NonGeneric.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Collections.Specialized.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ComponentModel.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ComponentModel.Annotations.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Data.Common.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.Contracts.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.Debug.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.Tools.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Diagnostics.Tracing.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Dynamic.Runtime.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Globalization.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Globalization.Calendars.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Globalization.Extensions.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.Compression.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\ClrCompression.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.FileSystem.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.IsolatedStorage.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Linq.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Linq.Expressions.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Linq.Parallel.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Linq.Queryable.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Http.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Http.Rtc.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.NetworkInformation.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Primitives.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Requests.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.Sockets.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ObjectModel.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Private.DataContractSerialization.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Private.Networking.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Private.ServiceModel.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Private.Uri.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Context.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Emit.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Extensions.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Metadata.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.Primitives.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Resources.ResourceManager.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Extensions.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Handles.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.InteropServices.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Numerics.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Security.Claims.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Security.Principal.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Duplex.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Http.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Primitives.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.ServiceModel.Security.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Text.Encoding.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Text.RegularExpressions.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Overlapped.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Tasks.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Threading.Timer.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.ReaderWriter.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.XDocument.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.XmlDocument.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\System.Xml.XmlSerializer.dll
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLE.csprojAssemblyReference.cache
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\App.g.i.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\App.g.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MainPage.g.i.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MainPage.g.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario1_Discovery.g.i.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario1_Discovery.g.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario3_ServerForeground.g.i.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario3_ServerForeground.g.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario2_Client.g.i.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario2_Client.g.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\App.xaml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MainPage.xaml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario1_Discovery.xaml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Styles\Styles.xaml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario3_ServerForeground.xaml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario2_Client.xaml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\App.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MainPage.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario1_Discovery.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Styles\Styles.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario3_ServerForeground.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\Scenario2_Client.xbf
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\XamlSaveStateFile.xml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLE.csproj.CoreCompileInputs.cache
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLE.csproj.CopyComplete
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLEUniversal.exe
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\BluetoothLEUniversal.pdb
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\ResourceHandlingTask.state
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.AppContext.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Linq.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Private.Networking.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Threading.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\priconfig.xml
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\priconfig.xml.intermediate
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\unfiltered.layout.resfiles
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\filtered.layout.resfiles
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\excluded.layout.resfiles
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\resources.resfiles
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\resources.resfiles.intermediate
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\pri.resfiles
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\pri.resfiles.intermediate
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\qualifiers.txt
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\qualifiers.txt.intermediate
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\ProjectArchitectures.txt
+D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json

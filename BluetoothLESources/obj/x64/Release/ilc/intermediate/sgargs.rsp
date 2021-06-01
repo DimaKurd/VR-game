@@ -1,0 +1,10 @@
+/out:"D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Release\ilc\intermediate\\"
+/ref:"D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Release\ilc\in\\"
+/ref:"D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Release\ilc\in\\"
+/ref:"D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x64\ilc\lib\Private\\"
+/ref:"D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib

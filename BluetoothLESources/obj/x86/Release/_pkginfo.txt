@@ -1,0 +1,1 @@
+D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\AppPackages\BluetoothLE_1.0.0.0_Test\BluetoothLE_1.0.0.0_x86_x64.msixbundle

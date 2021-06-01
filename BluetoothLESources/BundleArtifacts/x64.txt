@@ -1,0 +1,2 @@
+MainPackage=D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x64\Release\BluetoothLE_1.0.5.0_x64.msix
+SymbolPackage=D:\studying\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x64\Release\Symbols\BluetoothLE_1.0.5.0_x64.appxsym

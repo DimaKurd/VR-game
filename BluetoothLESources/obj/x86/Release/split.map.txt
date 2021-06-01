@@ -1,0 +1,15 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\split.pri"			"resources.pri"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\BluetoothLEUniversal.xr.xml"			"BluetoothLEUniversal.xr.xml"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\Assets\windows-sdk.png"			"Assets\windows-sdk.png"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\Assets\tile-sdk.png"			"Assets\tile-sdk.png"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\Assets\storeLogo-sdk.png"			"Assets\storeLogo-sdk.png"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\Assets\squareTile-sdk.png"			"Assets\squareTile-sdk.png"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\Assets\splash-sdk.png"			"Assets\splash-sdk.png"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\Assets\smallTile-sdk.png"			"Assets\smallTile-sdk.png"
+"D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\PackageLayout\Assets\microsoft-sdk.png"			"Assets\microsoft-sdk.png"

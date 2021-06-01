@@ -1,0 +1,2 @@
+MainPackage=D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\bin\x86\Release\BluetoothLE_1.0.0.0_x86.msix
+SymbolPackage=D:\studying\III курс\Нейроинтерфейсы\4lab\Windows-universal-samples-master\Windows-universal-samples-master\Samples\BluetoothLE\cs\obj\x86\Release\Symbols\BluetoothLE_1.0.0.0_x86.appxsym
